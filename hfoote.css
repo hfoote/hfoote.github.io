@@ -40,12 +40,12 @@ body {
 }
 
 .navbar a:hover:not(.active) {
-	background-color: #21262b;
+	background-color: #c6cbd2;
 	color: black;
 }
 
 .active {
-	background-color: #00ace6
+	background-color: #005ce6;
 	color:white;
 }
 
