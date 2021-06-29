@@ -4,10 +4,20 @@ h1 {
 	font-size: 24pt;
 }
 
+h2 {
+	color: #47505c;
+	font-family: Arial, sans-serif;
+	font-size: 18pt;
+}
+
 p {
 	color: black;
 	font-family: garamond, sans-serif;
 	font-size: 12pt;
+}
+
+body {
+	background-color: #e2e5e9;
 }
 
 .navbar { /* For the navbar list */
@@ -16,10 +26,6 @@ p {
 	padding: 0;
 	overflow: hidden;
 	background-color: #47505c;
-}
-
-li {
-	float: left;
 }
 
 .navbar a {
@@ -34,12 +40,13 @@ li {
 }
 
 .navbar a:hover:not(.active) {
-	background-color: #c6cbd2;
+	background-color: #21262b;
 	color: black;
 }
 
 .active {
-	background-color: #005ce6
+	background-color: #00ace6
+	color:white;
 }
 
 .header {
