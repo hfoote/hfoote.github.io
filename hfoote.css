@@ -57,19 +57,19 @@ body {
 	font-size: 10pt;
 }
 
-.pronouns {
-	color: #47505c;
-	font-family: Arial, sans-serif;
-	font-size: 18pt;
-}
-
-.email a { /*For the email link in the footer*/
+.footer a { /*For the email link in the footer*/
 	font-family: Arial, sans-serif;
 	font-size: 10pt;
 	color: #005ce6;
 	text-decoration: none;
 }
 
-.email a:hover{
+.footer a:hover{
 	text-decoration: underline;
+}
+
+.pronouns {
+	color: #47505c;
+	font-family: Arial, sans-serif;
+	font-size: 18pt;
 }
