@@ -45,8 +45,16 @@ body {
 
 .header {
 	background-color: #c6cbd2;
-	padding: 15px;
+	padding: 12px 25px;
 	text-align: left;
+}
+
+.footer {
+	background-color: #c6cbd2;
+	padding: 12px 25px;
+	text-align: center;
+	font-family: Arial, sans-serif;
+	font-size: 12pt;
 }
 
 .pronouns {
