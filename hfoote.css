@@ -49,7 +49,7 @@ body {
 	flex-direction: row;
 	justify-content: center;
 	align-items: center;
-	align-content: space-around;
+	align-content: space-evenly;
 	background-color: #c6cbd2;
 	height: 150px;
 	text-align: left;
