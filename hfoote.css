@@ -50,8 +50,13 @@ body {
 }
 
 .footer {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	align-content: space-between;
 	background-color: #c6cbd2;
-	padding: 12px 25px;
+	padding: 12px 40px;
 	text-align: center;
 }
 
@@ -75,4 +80,10 @@ body {
 	color: #47505c;
 	font-family: Arial, sans-serif;
 	font-size: 18pt;
+}
+
+.copyright p {
+	font-family: Arial, sans-serif;
+	font-size: 10pt;
+	opacity: 0.5;
 }
