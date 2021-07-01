@@ -56,7 +56,7 @@ body {
 	align-items: center;
 	align-content: space-between;
 	background-color: #c6cbd2;
-	padding: 12px 40px;
+	height: 150px;
 	text-align: center;
 }
 
@@ -86,4 +86,5 @@ body {
 	font-family: Arial, sans-serif;
 	font-size: 10pt;
 	opacity: 0.5;
+	text-align: center;
 }
