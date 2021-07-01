@@ -95,6 +95,12 @@ body {
 	text-align: center;
 }
 
-.pagetitle {
+.pagetitle { /*padding for page titles*/
 	padding: 20px;
+}
+
+.page { /* for the main content of each page, a flex container with a maximum width */
+	display: flex;
+	flex-direction: column;
+	max-width: 700px;
 }
