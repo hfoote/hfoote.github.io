@@ -23,7 +23,7 @@ body {
   color: white;
   text-align: center;
   font-family: helvetica, sans-serif;
-  font-size: 18px;
+  font-size: 20px;
   padding: 20px, 18px;
   text-decoration: none;
 }
@@ -58,7 +58,6 @@ body {
 .footer p {
 	font-family: Arial, sans-serif;
 	font-size: 10pt;
-	padding: 2px;
 }
 
 .footer a { /*For the links in the footer*/
