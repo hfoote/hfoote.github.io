@@ -109,7 +109,7 @@ body {
 	display: flex;
 	flex-direction: column;
 	max-width: 800px;
-	justify-content: center;
+	align-self: center;
 }
 
 .page p {
