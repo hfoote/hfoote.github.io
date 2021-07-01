@@ -8,6 +8,12 @@ h1 {
 	font-size: 24pt;
 }
 
+h2 {
+	color: black;
+	font-family: helvetica, sans-serif;
+	font-size: 22pt;
+}
+
 p {
 	color: black;
 	font-family: garamond, sans-serif;
@@ -102,5 +108,10 @@ body {
 .page { /* for the main content of each page, a flex container with a maximum width */
 	display: flex;
 	flex-direction: column;
-	max-width: 700px;
+	max-width: 500px;
+	align-content: center;
+}
+
+.page p {
+	padding: 20px;
 }
