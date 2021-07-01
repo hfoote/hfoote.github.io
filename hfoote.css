@@ -50,6 +50,13 @@ body {
 }
 
 .header p {
+	color: #47505c;
+	font-family: Arial, sans-serif;
+	font-size: 18pt;
+}
+
+.pronouns { 
+	color: #47505c;
 	font-family: Arial, sans-serif;
 	font-size: 18pt;
 }
@@ -79,12 +86,6 @@ body {
 
 .footer a:hover { /* Underline of hover */
 	text-decoration: underline;
-}
-
-.pronouns { 
-	color: #47505c;
-	font-family: Arial, sans-serif;
-	font-size: 18pt;
 }
 
 .copyright p { /*Copyright text in footer*/
