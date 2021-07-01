@@ -12,6 +12,7 @@ p {
 
 body {
 	background-color: #e2e5e9;
+	margin: 0;
 }
 
 .navbar { /* For the navbar */
