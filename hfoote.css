@@ -49,6 +49,11 @@ body {
 	text-align: left;
 }
 
+.header p {
+	font-family: Arial, sans-serif;
+	font-size: 18pt;
+}
+
 .footer {
 	display: flex;
 	flex-direction: row;
