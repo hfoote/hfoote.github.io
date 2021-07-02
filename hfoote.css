@@ -113,7 +113,7 @@ body {
 	justify-content: center;
 }
 
-.page div { /* keeps page elements smaller than 800px width */
+.page > div { /* keeps page elements smaller than 800px width */
 	width: 800px;
 }
 
