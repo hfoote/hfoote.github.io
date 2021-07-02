@@ -112,3 +112,12 @@ body {
 	min-height: content;
 	margin: 0 auto;
 }
+
+.page a { /*link behavior in page paragraphs */
+	text-decoration: underline;
+}
+
+.page a { /* remove underline and change color */
+	text-decoration: none;
+	color: #005ce6;
+}
