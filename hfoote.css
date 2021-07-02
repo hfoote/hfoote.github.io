@@ -106,8 +106,9 @@ body {
 	text-align: left;
 }
 
-.page { /* for the main content of each page, a flex container with a maximum width */
+.page { /* for the main content of each page */
 	display: block;
 	max-width: 800px;
+	min-height: content;
 	margin: 0 auto;
 }
