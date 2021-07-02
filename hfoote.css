@@ -103,6 +103,7 @@ body {
 
 .pagetitle { /*padding for page titles*/
 	padding: 20px;
+	text-align: left;
 }
 
 .page { /* for the main content of each page, a flex container with a maximum width */
