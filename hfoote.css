@@ -117,7 +117,7 @@ body {
 	text-decoration: underline;
 }
 
-.page a { /* remove underline and change color */
+.page a:hover { /* remove underline and change color */
 	text-decoration: none;
 	color: #005ce6;
 }
