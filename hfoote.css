@@ -70,13 +70,13 @@ body {
 .footer {
 	display: flex;
 	flex-direction: row;
+	flex-wrap: wrap;
 	justify-content: space-around;
 	align-items: center;
 	align-content: center;
 	background-color: #c6cbd2;
 	height: 150px;
 	text-align: left;
-	padding-top: 20px;
 }
 
 .footer p {
