@@ -106,18 +106,11 @@ body {
 	text-align: left;
 }
 
-.page { /* for the main content of each page, a flex container with a maximum width */
+.page-container { /* for the main content of each page, a flex container with a maximum width */
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
-}
-
-.page > div { /* keeps page elements smaller than 800px width */
-	width: 800px;
-}
-
-.page p {
-	font-size: 14pt;
-	padding: 20px;
+	max-width: 800px;
+	margin:0 auto;
 }
