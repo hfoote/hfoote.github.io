@@ -103,7 +103,7 @@ body {
 
 .pagetitle { /*padding for page titles*/
 	padding: 20px 20px 0px 20px;
-	text-align: left;
+	text-align: center;
 }
 
 .page { /* for the main content of each page */
