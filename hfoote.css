@@ -109,9 +109,12 @@ body {
 .page { /* for the main content of each page, a flex container with a maximum width */
 	display: flex;
 	flex-direction: column;
-	max-width: 800px;
 	align-items: center;
 	justify-content: center;
+}
+
+.page div { /* keeps page elements smaller than 800px width */
+	width: 800px;
 }
 
 .page p {
