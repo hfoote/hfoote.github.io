@@ -115,6 +115,7 @@ body {
 
 .page a { /*link behavior in page paragraphs */
 	text-decoration: underline;
+	color: #47505c;
 }
 
 .page a:hover { /* remove underline and change color */
