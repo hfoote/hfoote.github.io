@@ -90,7 +90,7 @@ body {
 	text-decoration: none;
 }
 
-.footer a:hover { /* Underline of hover */
+.footer a:hover { /* Underline on hover */
 	text-decoration: underline;
 }
 
@@ -106,10 +106,8 @@ body {
 	text-align: left;
 }
 
-.page-container { /* for the main content of each page, a flex container with a maximum width */
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	justify-content: center;
+.page { /* for the main content of each page, a flex container with a maximum width */
+	display: block;
 	max-width: 800px;
+	margin: 0 auto;
 }
