@@ -129,8 +129,9 @@ body {
 	color: #005ce6;
 }
 
-.center-image { /* for centering images */
+.page-image { /* for page images on their own lines */
 	display: block;
 	margin-right: auto;
 	margin-left: auto;
+	padding: 20px;
 }
