@@ -128,3 +128,9 @@ body {
 	text-decoration: none;
 	color: #005ce6;
 }
+
+.center-image { /* for centering images */
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
