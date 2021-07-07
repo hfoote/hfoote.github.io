@@ -137,9 +137,9 @@ body {
 }
 
 .caption{ /* for picture captions on a page */
-	color: black;
 	font-family: garamond, sans-serif;
-	font-size: 12pt;
+	font-size: 10pt;
 	color: #47505c;
 	font-style: italic;
+	text-align: center;
 }
