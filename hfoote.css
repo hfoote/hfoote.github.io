@@ -135,3 +135,11 @@ body {
 	margin-left: auto;
 	padding: 20px;
 }
+
+.caption{ /* for picture captions on a page */
+	color: black;
+	font-family: garamond, sans-serif;
+	font-size: 12pt;
+	color: #47505c;
+	font-style: italic;
+}
