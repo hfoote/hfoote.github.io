@@ -156,6 +156,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   padding: 4px;
+  justify-content: center;
 }
 
 .row img {
