@@ -158,6 +158,10 @@ body {
   padding: 4px;
 }
 
+.row img {
+	max-width: 400px;
+}
+
 .column { /* for picture collage */
   flex: 50%;
   max-width: 50%;
@@ -167,4 +171,5 @@ body {
 .column img {
   margin-top: 8px;
   vertical-align: middle;
+  max-width: 400px;
 }
