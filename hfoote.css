@@ -155,12 +155,7 @@ body {
 .row { /* for picture collage */
   display: flex;
   flex-wrap: wrap;
-  padding: 4px;
-  justify-content: center;
-}
-
-.row img {
-	max-width: 800px;
+  padding: 0 4px;
 }
 
 .column { /* for picture collage */
@@ -172,5 +167,4 @@ body {
 .column img {
   margin-top: 8px;
   vertical-align: middle;
-  max-width: 400px;
 }
