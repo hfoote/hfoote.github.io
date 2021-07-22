@@ -155,16 +155,21 @@ body {
 .row { /* for picture collage */
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
   padding: 0 4px;
 }
 
-.column { /* for picture collage */
+.row img {
+  margin-top: 4px;
   flex: 50%;
-  max-width: 50%;
-  padding: 0 4px;
+  max-width: 400px;
 }
 
-.column img {
-  margin-top: 8px;
-  vertical-align: middle;
+.collage { /* for picture collage */
+	margin: 4px;
+	width: 100%;
+	max-width: 808px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
 }
