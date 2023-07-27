@@ -77,7 +77,6 @@ body {
 	display: flex;
 	flex-direction: row;
 	justify-content: space-around;
-	float:left;
 	align-items: center;
 	align-content: center;
 	background-color: #c6cbd2;
